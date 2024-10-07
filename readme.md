@@ -71,4 +71,3 @@ Some essential KPIs to track for trading risk management may include:
 * BI Tools: Tableau, Power BI for dashboarding.
 * Alerts and Notifications: Slack API, SMTP for email alerts.
 
-
